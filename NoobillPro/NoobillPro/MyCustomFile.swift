@@ -1,8 +1,8 @@
 //
-//  File.swift
-//  
+//  MyCustomFile.swift
+//  NoobillPro
 //
-//  Created by Shivam on 22/06/23.
+//  Created by Shivam on 23/06/23.
 //
 
 import Foundation
@@ -10,7 +10,6 @@ import Foundation
 public class MyCustomFile{
     
     public static func newFunction(){
-        print("Hello Shivamvvvv")
+        print("Hello Shivamv")
     }
 }
-
